@@ -10,7 +10,7 @@ The project "NoTraM - Norwegian Transformer Model" is owned by the National Libr
 # Norwegian Colossal Corpus
 The Norwegian Colossal Corpus is an open text corpus comparable in size and quality with available datasets for English. 
 
-The core of the corpus is based on a [unique project](https://www.zdnet.com/article/norways-petabyte-plan-store-everything-ever-published-in-a-1000-year-archive/) started in 2006. In the digitalisation project the goal has veeb to digitize and store all content ever published in Norwegian. In addition we have added multiple other public sources of Norwegian text. Details about the sources as well as how they are built are available in the [Colossal Norwegian Corpus Description](https://github.com/NBAiLab/notram/tree/master/guides/corpus_description.md). 
+The core of the corpus is based on a [unique project](https://www.zdnet.com/article/norways-petabyte-plan-store-everything-ever-published-in-a-1000-year-archive/) started in 2006. In the digitalisation project the goal has been to digitize and store all content ever published in Norwegian. In addition we have added multiple other public sources of Norwegian text. Details about the sources as well as how they are built are available in the [Colossal Norwegian Corpus Description](https://github.com/NBAiLab/notram/tree/master/guides/corpus_description.md). 
 
 | Corpus  | License  | Size | Words | Documents | Avg words per doc  |
 | -------- | -------- |   :-----|   -----:| -----:| -----:|
